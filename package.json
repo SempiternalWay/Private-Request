@@ -34,14 +34,6 @@
   "author": "SmirkQS",
   "license": "MIT",
   "dependencies": {
-    └─┬ discord-irc@2.4.2
-├── UNMET PEER DEPENDENCY bufferutil@^3.0.0
-├── UNMET PEER DEPENDENCY erlpack@hammerandchisel/erlpack
-├── UNMET PEER DEPENDENCY libsodium-wrappers@^0.5.1
-├── UNMET PEER DEPENDENCY node-opus@^0.2.5
-├── UNMET PEER DEPENDENCY opusscript@^0.0.3
-├── UNMET PEER DEPENDENCY sodium@^2.0.1
-└── UNMET PEER DEPENDENCY uws@^0.14.1
     "discord.js": "^11.4.2"
   },
   "devDependencies": {},
