@@ -1,5 +1,5 @@
 {
-  "name": "Discord-Reposter",
+  "name": "private_request",
   "version": "1.0.0",
   "description": "Bot for reposting Discord messages.",
   "main": "reposter.js",
@@ -35,5 +35,14 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SempiternalWay/Private-Request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SempiternalWay/Private-Request/issues"
+  },
+  "homepage": "https://github.com/SempiternalWay/Private-Request#readme"
 }
