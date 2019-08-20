@@ -6,7 +6,7 @@ const fs = require("fs");
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
-client.login("<NjEzMTQ3Mzg2Nzg4ODM5NTEw.XVuODg.lI9mPoGOBXIKZMO55ncH5L861bs>").catch(console.error);
+client.login("<NjEzMTQ3Mzg2Nzg4ODM5NTEw.XVuSRA.Hg_K-MFDfIRa9YsEDgBqsyGh5L4>").catch(console.error);
 
 client.on("ready", function() {
 	client.user.setActivity(client.guilds.size + " server" + (client.guilds.size === 1 ? "" : "s"), { type: "WATCHING" }).catch(console.error);
