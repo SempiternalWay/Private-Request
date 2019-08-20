@@ -1,7 +1,7 @@
 {
   "name": "private_request",
   "version": "1.0.0",
-  "description": "Bot for reposting Discord messages.",
+  "description": "Deletes and Reposts Discord Messages.",
   "main": "reposter.js",
   "engines": {
     "node": "10.x",
@@ -32,6 +32,7 @@
     "reposts"
   ],
   "author": "MysteryPancake",
+  "author": "SmirkQS",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2"
